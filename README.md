@@ -17,7 +17,7 @@ This project is a RESTful API developed with Spring Boot for managing a library'
 
 
 -Repository
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/omerkolsuz/library-management-system.git
 cd library-management-system
 mvn install
 -Running
