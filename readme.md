@@ -51,3 +51,9 @@ PUT /api/books/{id}
 
 *Delete a book
 DELETE /api/books/{id}
+
+*Example 
+curl -X POST -H "Content-Type: application/json" -d '{"title":"Exempel","author":"Ömer Kolsuz","publicationYear":2023}' http://localhost:8080/api/books
+
+
+
